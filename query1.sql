@@ -8,3 +8,8 @@ SELECT * FROM Parents;
 
 
 
+SELECT ID, StaffFirstName, StaffLastName, StaffPosition, EducationLevel, TeachingAges
+FROM StaffTables
+WHERE ID = 2;
+
+
