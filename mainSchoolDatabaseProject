@@ -1,0 +1,4 @@
+-- trying to make input parentID column officially instead of just quering it
+
+ALTER TABLE Students
+DROP COLUMN ParentID;
